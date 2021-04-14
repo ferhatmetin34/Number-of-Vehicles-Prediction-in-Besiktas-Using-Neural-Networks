@@ -2,8 +2,9 @@
 
 **App Link** : https://numberofvehiclesprediction.herokuapp.com
 
-**Data** : https://data.ibb.gov.tr/dataset/saatlik-trafik-yogunluk-veri-seti
+**Data** : https://data.ibb.gov.tr/dataset/saatlik-trafik-yogunluk-veri-seti  **(2020.01.01 - 2020.12.27)**
 
+It is a little project that aim to predict the number of vehicles in different places of Besiktas,Istanbul.
 
 <img src="capture.gif" width="900" height="500" />
 
@@ -21,3 +22,6 @@ seaborn
 plotly
 streamlit-folium
 ```
+
+**License**
+[MIT](https://choosealicense.com/licenses/mit/)
