@@ -3,3 +3,6 @@
 *.pdf
 /test
 /spec
+features
+doc
+public
