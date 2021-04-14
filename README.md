@@ -1,7 +1,8 @@
 # Number-of-Vehicles-Prediction-in-Besiktas-Using-Neural-Networks
 
-### App Link : https://numberofvehiclesprediction.herokuapp.com
-### Data : https://data.ibb.gov.tr/dataset/saatlik-trafik-yogunluk-veri-seti
+**App Link** : https://numberofvehiclesprediction.herokuapp.com
+
+**Data** : https://data.ibb.gov.tr/dataset/saatlik-trafik-yogunluk-veri-seti
 
 
 <img src="capture.gif" width="900" height="500" />
