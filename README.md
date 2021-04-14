@@ -2,7 +2,9 @@
 
 **App Link** : https://numberofvehiclesprediction.herokuapp.com
 
-**Data** : https://data.ibb.gov.tr/dataset/saatlik-trafik-yogunluk-veri-seti  **(2020.01.01 - 2020.12.27)**
+**Traffic Data** : https://data.ibb.gov.tr/dataset/saatlik-trafik-yogunluk-veri-seti  **(2020.01.01 - 2020.12.27)**
+
+**Weather Data** : https://www.worldweatheronline.com
 
 It is a little project that aim to predict the number of vehicles in different places of Besiktas,Istanbul.
 
