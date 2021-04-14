@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorflow<=1
 keras
 folium
 pandas
