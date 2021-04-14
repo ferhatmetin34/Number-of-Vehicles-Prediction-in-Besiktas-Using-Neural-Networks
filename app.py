@@ -7,13 +7,11 @@ import folium
 from streamlit_folium import folium_static
 import numpy as np 
 import folium
-from folium import plugins
 from sklearn.preprocessing import MinMaxScaler,StandardScaler,RobustScaler
 from sklearn.metrics import mean_squared_error,r2_score,mean_absolute_error
 from keras import models
 from keras import layers,optimizers,metrics,losses
 import datetime
-import tensorflow as tf
 pd.set_option('display.max_columns', None)
 from keras.optimizers import  Adagrad,Adam,Adadelta,SGD,RMSprop
 from keras.layers import ReLU,LeakyReLU,ELU
