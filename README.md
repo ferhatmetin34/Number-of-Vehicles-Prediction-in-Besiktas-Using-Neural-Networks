@@ -6,7 +6,7 @@
 
 **Weather Data** : https://www.worldweatheronline.com
 
-It is a little project that aim to predict the number of vehicles in different places of Besiktas,Istanbul.
+It is a little project that aims to predict the number of vehicles in different places of Besiktas,Istanbul.
 
 <img src="capture.gif" width="900" height="500" />
 
