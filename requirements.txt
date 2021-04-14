@@ -1,4 +1,5 @@
 streamlit
+tensorflow==2.3.1
 keras
 folium
 pandas
