@@ -23,6 +23,7 @@ matplotlib
 seaborn
 plotly
 streamlit-folium
+wwo-hist
 ```
 
 **License**
