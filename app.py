@@ -425,9 +425,9 @@ def main():
             if choice==coord_list[i]:
                 full_data=prepare_data(frame_list[i],weather_cond)
 
-        st.markdown("#### Data (Last 5)")
-        st.dataframe(full_data.tail())
-        st.markdown(f"_Shape_: _{full_data.shape}_")
+        st.markdown("#### Data (First 5)")
+        st.dataframe(full_data.head())
+        #st.markdown(f"_Shape_: _{full_data.shape}_")
 
         cols=["minimum_speed","maximum_speed","average_speed","WindGustKmph","cloudcover","humidity",
         "maxtempC","mintempC","precipMM","tempC","hour","dayofweek","dayofmonth","is_weekend","arac_sayi(t-1)",
