@@ -38,7 +38,7 @@ def main():
     st.markdown(html_temp, unsafe_allow_html = True) 
 
 
-    page_choice=st.sidebar.radio("Pages",["Data","Plots","Prediction","Codes"])
+    page_choice=st.sidebar.radio("Pages",["Plots","Prediction","Codes"])
 
 
     def create_space(number_of_row):
@@ -343,9 +343,6 @@ def main():
         
         return fig
 
-    if page_choice=="Data":
-    
-        description_page()
     
     if page_choice=="Plots":
         
