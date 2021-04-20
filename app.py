@@ -23,7 +23,6 @@ from keras.utils.vis_utils import plot_model
 import time
 import io
 from keras.models import load_model
-from description import *
 import base64
 import json
 
@@ -38,7 +37,7 @@ def main():
     st.markdown(html_temp, unsafe_allow_html = True) 
 
 
-    page_choice=st.sidebar.radio("Pages",["Plots","Prediction","Codes"])
+    page_choice=st.sidebar.radio("Pages",["Prediction","Plots","Codes"])
 
 
     def create_space(number_of_row):
