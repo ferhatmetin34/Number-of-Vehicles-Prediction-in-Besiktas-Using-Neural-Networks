@@ -26,10 +26,11 @@ streamlit-folium
 wwo-hist
 ```
 
-**License**
-[MIT](https://choosealicense.com/licenses/mit/)
-
 **runtime.txt**
 ```
 python-3.7.10
 ```
+
+
+**License**
+[MIT](https://choosealicense.com/licenses/mit/)
