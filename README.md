@@ -1,6 +1,6 @@
 # Number-of-Vehicles-Prediction-in-Besiktas-Using-Neural-Networks
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ferhatmetin34/https://github.com/ferhatmetin34/Number-of-Vehicles-Prediction-in-Besiktas-Using-Neural-Networks/https://numberofvehiclesprediction.herokuapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://numberofvehiclesprediction.herokuapp.com)
 
 **App Link** : https://numberofvehiclesprediction.herokuapp.com
 
