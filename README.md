@@ -27,6 +27,7 @@ plotly
 streamlit-folium
 wwo-hist
 ```
+Slug size was more than 500 MB so I used tensorflow-cpu to decrease it. Maybe I can deploy the project with Docker later.
 
 **runtime.txt**
 ```
